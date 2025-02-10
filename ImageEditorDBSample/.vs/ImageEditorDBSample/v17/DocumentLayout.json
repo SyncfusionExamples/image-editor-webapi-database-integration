@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Samples\\CoreIEDBSample\\ImageEditorDBSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D571E7-6F9D-4935-A095-B76E2DF1E523}|ImageEditorDBSample\\ImageEditorDBSample.csproj|d:\\samples\\coreiedbsample\\imageeditordbsample\\imageeditordbsample\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D571E7-6F9D-4935-A095-B76E2DF1E523}|ImageEditorDBSample\\ImageEditorDBSample.csproj|solutionrelative:imageeditordbsample\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 42,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\Samples\\CoreIEDBSample\\ImageEditorDBSample\\ImageEditorDBSample\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "ImageEditorDBSample\\Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\Samples\\CoreIEDBSample\\ImageEditorDBSample\\ImageEditorDBSample\\Controllers\\ImagesController.cs \u2B24",
+              "RelativeToolTip": "ImageEditorDBSample\\Controllers\\ImagesController.cs \u2B24",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvyIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:48:06.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 6,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
